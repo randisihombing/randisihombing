@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate Mobile Developer with over **1 year of experience** in Flutter-based application development.  
+I'm a passionate Mobile Developer with over 3 year of experience in Promgramming with 2 year of experience in Flutter-based application development.  
 I enjoy building smooth, responsive, and optimized mobile experiences.  
 My work includes health and financial applications — one of which is live on the **Play Store and App Store**.
 
